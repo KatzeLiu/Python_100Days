@@ -14,11 +14,3 @@ for i in range(3, 21):
 	num.append(Fib(i))
 
 print(num)
-
-
-
-
-
-
-
-
